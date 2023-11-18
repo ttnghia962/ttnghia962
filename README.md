@@ -33,8 +33,7 @@
 ## Liên kết
 
 * Facebook: https://www.facebook.com/profile.php?id=100035161478542&mibextid=ZbWKwL
-* [Liên kết đến hồ sơ LinkedIn của bạn]
-* [Liên kết đến các dự án của bạn]
+
 
 <!--
 - 🔭 I’m currently working on ...  FPT 
