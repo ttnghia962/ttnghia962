@@ -1,38 +1,38 @@
 ### Hi there 👋
 
 
-# Trương Trọng Nghĩa - Mathys
+# Personal Information:
 
-### Thông tin cá nhân
+- Age: 21
+- Address: Vietnam- Ho Chi Minh City
+- Email: ttnghia962@gmail.com
+## Skills:
 
-* Tuổi: 21
-* Địa chỉ: Vietnam- Ho Chi Minh City
-* Email: ttnghia962@gmail.com
+- Programming:
+   - Programming Languages: Python, Java, C/C++,...
+   - Software Architecture: MVC, SOLID,...
+   - Databases: MySQL, PostgreSQL,...
+## Soft Skills:
 
-## Kỹ năng
+- Communication: Effective communication with various stakeholders.
+- Teamwork: Efficient collaboration within a team.
+- Problem Solving: Ability to solve problems effectively.
+- Work Experience:
 
-* Lập trình:
-    * Ngôn ngữ lập trình: Python, Java, C/C++,...
-    * Kiến trúc phần mềm: MVC, SOLID,...
-    * Cơ sở dữ liệu: MySQL, PostgreSQL,...
-* Kỹ năng mềm:
-    * Giao tiếp: Khả năng giao tiếp hiệu quả với mọi người.
-    * Làm việc nhóm: Khả năng làm việc hiệu quả trong một nhóm.
-    * Giải quyết vấn đề: Khả năng giải quyết các vấn đề một cách hiệu quả.
+## Experience:
+- Company: Amazing Tech
+   - Duration: 01-05-2023 - Present
+- Position: Co-Founder
+- Project: Face Recognition Attendance System
+   - Duration: 01-05-2023 - Present
+- Role: A.I Engineering
 
-## Kinh nghiệm làm việc
-
-* Công việc: Amazing Tech 
-    * Thời gian: 01-05-2023- Now
-    * Nội dung công việc: Co- Founder
-* Dự án: Điểm danh bằng nhận diện khuôn mặt
-    * Thời gian: 01-05-2023 - Now 
-    * Vai trò: A.I engineering
+## Links:
+Facebook: [Click here](https://www.facebook.com/profile.php?id=100035161478542&mibextid=ZbWKwL)
 
 
-## Liên kết
 
-* Facebook: https://www.facebook.com/profile.php?id=100035161478542&mibextid=ZbWKwL
+
 
 
 <!--
