@@ -13,13 +13,10 @@
    - Software Architecture: MVC, SOLID,...
    - Databases: MySQL, PostgreSQL,...
 ## Soft Skills:
-
 - Communication: Effective communication with various stakeholders.
 - Teamwork: Efficient collaboration within a team.
 - Problem Solving: Ability to solve problems effectively.
-- Work Experience:
-
-## Experience:
+## Work Experience:
 - Company: Amazing Tech
    - Duration: 01-05-2023 - Present
 - Position: Co-Founder
@@ -28,8 +25,8 @@
 - Role: A.I Engineering
 
 ## Links:
-Facebook: [Click here](https://www.facebook.com/profile.php?id=100035161478542&mibextid=ZbWKwL)
-
+- Facebook: [Click here](https://www.facebook.com/profile.php?id=100035161478542&mibextid=ZbWKwL)
+- Linkedin: [Click here](www.linkedin.com/in/nghĩa-trương-trọng-34622b213)
 
 
 
