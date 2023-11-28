@@ -1,7 +1,7 @@
 
 # Hi there, this is Nghia Truong or you can call me Mathys
 
-## Personal Information:
+## Basic Personal Information:
 - Age: 21
 - Address: Vietnam- Ho Chi Minh City
 - Email: ttnghia962@gmail.com
