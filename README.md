@@ -33,11 +33,25 @@
 
 
 <details>
- <summary><h3> ✉️ Mathys's Sharing Message (click) ✉️</h3></summary>
+ <summary><h3> ✉️ Mathys's Sharing Message (tap it) ✉️</h3></summary>
    "I started with no idea about coding or programming, and it was a real struggle. After a few months of trying and practicing, it became more manageable. Everything will be easier if you 'get the ball rolling', so have fun with your coding journey 💪🏼💪🏼💪🏼."
+</details>
 
+---
 
- 
+# <img src="https://github.com/ttnghia962/ttnghia962/assets/91373167/9fb816bc-7a4e-422b-8913-de862b0a2eb3" height="32" /> Here are some statistics on my github: 
+
+## <img align="left" alt="Docker" width="25px" style="padding-right:8px;" src="https://github.com/ttnghia962/ttnghia962/assets/91373167/266f8366-2698-4180-bf31-2b8f330e617f" /> General:
+ <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ttnghia962&show_icons=true&theme=tokyonight" >
+
+</div>
+
+## <img align="left" alt="Docker" width="25px" style="padding-right:8px;" src="https://github.com/ttnghia962/ttnghia962/assets/91373167/2066f65d-6043-4d2c-9576-1eb0ca6ddb09" /> Languagues are used: 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttnghia962&layout=donut&size=400x200&theme=dracula">
+</div>
+
 
 
 
