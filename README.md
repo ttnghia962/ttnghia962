@@ -37,8 +37,6 @@
    "I started with no idea about coding or programming, and it was a real struggle. After a few months of trying and practicing, it became more manageable. Everything will be easier if you 'get the ball rolling', so have fun with your coding journey 💪🏼💪🏼💪🏼."
 
 
-<a href="#"><img align="right" src="https://pin.it/51PVDEGzL" width="200 " height="200" /></a>
-
  
 
 
