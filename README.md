@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> there, this is Nghia Truong or you can call me Mathys
 **`Artificial Intelligence Engineer (Developer/ Engineer)`**
-<a href="#"><img align="right" src="https://i.pinimg.com/564x/b2/bc/92/b2bc925275d2d95df797a496116770d0.jpg" width="300 " height="600" /></a>
+<a href="#"><img align="right" src="https://i.pinimg.com/564x/b2/bc/92/b2bc925275d2d95df797a496116770d0.jpg" width="400 " height="850" /></a>
 
 ### <img align="left" alt="Python" width="25px" style="padding-right:8px;" src="https://github.com/ttnghia962/ttnghia962/assets/91373167/2298f695-d90d-4856-8c9f-8765c2be9226" /> Skills:
 - Programming:
